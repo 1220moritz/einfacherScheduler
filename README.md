@@ -1,7 +1,4 @@
 # Betriebssystem-Scheduler-Simulator
-
-Dieser Scheduler-Simulator dient dazu, verschiedene Scheduling-Algorithmen zu testen und zu vergleichen. Im Folgenden werden die Schritte zur Vorbereitung und Nutzung dieses Simulators beschrieben.
-
 ## Datenbereitstellung
 
 ### Eingabedatei
