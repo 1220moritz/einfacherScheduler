@@ -59,10 +59,11 @@ Die Ausgabe umfasst:
 - Verweilzeit
 - Wartezeit
 - Reaktionszeit
+- Ø Verweilzeit, Ø Wartezeit, Ø Reaktionszeit, Ende
 
 Diese Daten werden in der Konsole ausgegeben und zusätzlich in einer CSV-Datei mit dem Namen `Ausgabe.csv` gespeichert.
 
 ## Beenden des Simulators
 
-Der Scheduler-Simulator kann durch die Auswahl der Option "Exit" beendet werden.
+Der Scheduler-Simulator wird nach jedem Durschlauf beendet.
 
