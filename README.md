@@ -65,5 +65,5 @@ Diese Daten werden in der Konsole ausgegeben und zusätzlich in einer CSV-Datei 
 
 ## Beenden des Simulators
 
-Der Scheduler-Simulator wird nach jedem Durschlauf beendet.
+Der Scheduler-Simulator wird nach jedem Durschlauf beendet. Für vorzeitiges Beenden kann die Option 5 genutzt werden.
 
