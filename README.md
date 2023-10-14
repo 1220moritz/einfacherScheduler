@@ -1,4 +1,5 @@
 # Betriebssystem-Scheduler-Simulator
+[![Downloads](https://static.pepy.tech/badge/ReverseTwitterScraper)](https://pepy.tech/project/ReverseTwitterScraper)
 ## Projektstruktur
 Dieses Repository enthält die folgenden Hauptkomponenten:
 
